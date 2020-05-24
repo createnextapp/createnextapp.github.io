@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[51],{tDpk:function(t,e,a){"use strict";a.r(e);var n=a("q1tI"),i=a("9Dj+"),r=a("H8eV"),c=a("BHVN"),o=a("WRni");e.default=function(t){var e=t.location;return n.createElement(i.a,{location:e,defaultLang:"ru"},n.createElement(r.a,{title:o.a.title.ru,description:o.a.description.ru,location:e}),n.createElement(c.a,{isStatic:!0,defaultLang:"ru"}))}}}]);
+//# sourceMappingURL=component---src-pages-form-builder-ru-tsx-002bb06b2ca7e102eb86.js.map

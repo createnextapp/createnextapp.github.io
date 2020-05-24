@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[73],{SQ8S:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a("9Dj+"),c=a("H8eV"),l=a("Rtwo");t.default=function(e){var t=e.location;return n.createElement(o.a,{location:t,defaultLang:"zh"},n.createElement(c.a,{title:"资源",location:t}),n.createElement(l.a,{defaultLang:"zh"}))}}}]);
+//# sourceMappingURL=component---src-pages-resources-zh-tsx-d6a5b5d56f3ff302bdfd.js.map
