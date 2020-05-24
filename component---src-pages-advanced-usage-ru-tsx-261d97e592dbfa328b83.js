@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{Pi9i:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),i=a("9Dj+"),o=a("H8eV"),c=a("OxXe"),l=a("E78g");t.default=function(e){var t=e.location;return n.createElement(i.a,{location:t,defaultLang:"ru"},n.createElement(o.a,{title:l.a.title,location:t}),n.createElement(c.a,{defaultLang:"ru"}))}}}]);
-//# sourceMappingURL=component---src-pages-advanced-usage-ru-tsx-261d97e592dbfa328b83.js.map
