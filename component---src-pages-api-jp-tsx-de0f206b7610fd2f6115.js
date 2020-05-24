@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{"94Hr":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a("9Dj+"),c=a("H8eV"),i=a("Wi2s"),l=a("kA1s");t.default=function(e){var t=e.location;return n.createElement(o.a,{location:t,defaultLang:"jp"},n.createElement(c.a,{title:l.a.title,location:t}),n.createElement(i.a,{defaultLang:"jp"}))}}}]);
+//# sourceMappingURL=component---src-pages-api-jp-tsx-de0f206b7610fd2f6115.js.map

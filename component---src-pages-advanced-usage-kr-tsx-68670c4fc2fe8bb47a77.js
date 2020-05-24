@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{IoBD:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a("9Dj+"),c=a("H8eV"),l=a("OxXe"),r=a("d4jz");t.default=function(e){var t=e.location;return n.createElement(o.a,{location:t,defaultLang:"kr"},n.createElement(c.a,{title:r.a.title,location:t}),n.createElement(l.a,{defaultLang:"kr"}))}}}]);
+//# sourceMappingURL=component---src-pages-advanced-usage-kr-tsx-68670c4fc2fe8bb47a77.js.map

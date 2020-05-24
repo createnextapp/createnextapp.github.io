@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[41],{JXe6:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a("9Dj+"),c=a("H8eV"),l=a("zG+m"),i=a("H+U3");t.default=function(e){var t=e.location;return n.createElement(o.a,{location:t,defaultLang:"jp"},n.createElement(c.a,{title:i.a.title,location:t}),n.createElement(l.a,{defaultLang:"jp"}))}}}]);
+//# sourceMappingURL=component---src-pages-faqs-jp-tsx-890a973463979a5bd73e.js.map
