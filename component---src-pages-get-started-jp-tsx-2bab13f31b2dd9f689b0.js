@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[54],{"ie+i":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a("9Dj+"),c=a("H8eV"),i=a("O4SY"),l=a("vcQ2");t.default=function(e){var t=e.location;return n.createElement(o.a,{location:t,defaultLang:"jp"},n.createElement(c.a,{title:l.a.title,location:t}),n.createElement(i.a,{location:t,defaultLang:"jp"}))}}}]);
+//# sourceMappingURL=component---src-pages-get-started-jp-tsx-2bab13f31b2dd9f689b0.js.map

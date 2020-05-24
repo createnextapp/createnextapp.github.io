@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[69],{vkeQ:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a("9Dj+"),c=a("H8eV"),r=a("Rtwo");t.default=function(e){var t=e.location;return n.createElement(o.a,{location:t,defaultLang:"kr"},n.createElement(c.a,{title:"자원",location:t}),n.createElement(r.a,{defaultLang:"kr"}))}}}]);
+//# sourceMappingURL=component---src-pages-resources-kr-tsx-ae571df567510dc5f4ef.js.map
