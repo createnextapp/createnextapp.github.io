@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{bG79:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a("9Dj+"),c=a("H8eV"),i=a("Wi2s"),l=a("TSGL");t.default=function(e){var t=e.location;return n.createElement(o.a,{location:t,defaultLang:"kr"},n.createElement(c.a,{title:l.a.title,location:t}),n.createElement(i.a,{defaultLang:"kr"}))}}}]);
-//# sourceMappingURL=component---src-pages-api-kr-tsx-f310df41ef8d1503abd9.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[48],{evsZ:function(t,e,a){"use strict";a.r(e);var n=a("q1tI"),i=a("9Dj+"),c=a("H8eV"),o=a("BHVN"),l=a("WRni");e.default=function(t){var e=t.location;return n.createElement(i.a,{location:e,defaultLang:"jp"},n.createElement(c.a,{title:l.a.title.jp,description:l.a.description.jp,location:e}),n.createElement(o.a,{isStatic:!0,defaultLang:"jp"}))}}}]);
-//# sourceMappingURL=component---src-pages-form-builder-jp-tsx-909c2cc40fe05a26483d.js.map
