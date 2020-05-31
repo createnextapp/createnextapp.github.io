@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[70],{aJr1:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a("9Dj+"),c=a("H8eV"),l=a("Rtwo");t.default=function(e){var t=e.location;return n.createElement(o.a,{location:t,defaultLang:"jp"},n.createElement(c.a,{title:"資源",location:t}),n.createElement(l.a,{defaultLang:"jp"}))}}}]);
-//# sourceMappingURL=component---src-pages-resources-jp-tsx-f3ffe4c536fd264b9274.js.map
