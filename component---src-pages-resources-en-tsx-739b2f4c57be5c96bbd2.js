@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[68],{yQ4j:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),o=n("9Dj+"),c=n("H8eV"),l=n("Rtwo");t.default=function(e){var t=e.location;return a.createElement(o.a,{location:t,defaultLang:"en"},a.createElement(c.a,{title:"Resources",location:t}),a.createElement(l.a,{defaultLang:"en"}))}}}]);
+//# sourceMappingURL=component---src-pages-resources-en-tsx-739b2f4c57be5c96bbd2.js.map
